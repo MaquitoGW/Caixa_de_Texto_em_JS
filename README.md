@@ -17,7 +17,7 @@ Para implementar a caixa de texto formatável em seu projeto, siga os passos aba
 2. Adicione o seguinte arquivo no final do seu documento HTML:
 
 ```html
-<script src="construct.js"></script>
+<script src="js/construct.js"></script>
 ```
 
 3. Em seguida, insira o seguinte script:
